@@ -155,7 +155,7 @@ This project is licensed under the **MIT License** — free to use and modify wi
 
 ## 📬 Author
 **Ameya Pradhan**  
-Senior Customer Advisor | Data Science & FinTech Enthusiast  
-📧 *[Your email here]*  
-💼 [GitHub Profile Link]
+M.Sc FinTech | B.Tech Computer Science Engineering (Data Science)
+📧 ptadhanameya27@gmail.com 
+💼 https://github.com/ameyapradhan2799
 
