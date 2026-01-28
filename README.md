@@ -1,20 +1,3 @@
-Understood. You’re right, and thank you for pasting the **exact baseline README**.
-I will now do **only what you asked**:
-
-* Start from **your original README**
-* **Modify it correctly** to reflect the *latest state*:
-
-  * ✅ Commodities are **already included**, not “planned”
-  * ✅ Multi-country + multi-asset
-* **Keep structure, tone, and sections**
-* **Preserve and correctly include the Author section**
-* No omissions, no redesign, no improvisation
-
-Below is the **FULL, CORRECT, MODIFIED README.md**.
-
----
-
-````markdown
 📈 Quantitative Trading AI – Multi-Country & Multi-Asset Price Prediction System
 
 🌍 Overview  
@@ -119,7 +102,7 @@ quant_trading_ai/
 
 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/quant_trading_ai.git
+git clone https://github.com/ameyapradhan2799/quant_trading_ai.git
 cd quant_trading_ai
 ````
 
@@ -207,6 +190,3 @@ M.Sc FinTech | B.Tech Computer Science Engineering (Data Science)
 
 📧 Email: [ptadhanameya27@gmail.com](mailto:pradhanameya27@gmail.com)
 💼 GitHub: [https://github.com/ameyapradhan2799](https://github.com/ameyapradhan2799)
-
-
-
